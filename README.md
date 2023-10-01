@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @govindsharma010
-- 👀 I’m interested in exploring technologies
+- 👀 I’m interested in exploring AI world and otheer technologies
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking forward to learninng  from you guuys 
 - 📫  reach me ; gs17112015@gmail.com
