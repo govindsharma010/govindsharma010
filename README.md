@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @govindsharma010
 - 👀 I’m interested in exploring AI world and other technologies
 - 🌱 I’m currently learning web development
+- 100+ Questions on LeetCode in Java 
 - 💞️ I’m looking forward to learninng  from you guys 
 - 📫  reach me ; gs17112015@gmail.com
 
