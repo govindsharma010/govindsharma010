@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @govindsharma010
+- 👋 Hi, I’m Govind Sharma
 - 👀 I’m interested in exploring AI world and other technologies
 - 🌱 I’m currently learning web development
-- 100+ Questions on LeetCode in Java 
-- 💞️ I’m looking forward to learninng  from you guys 
+- 100+ Questions on LeetCode in Java  
 - 📫  reach me ; gs17112015@gmail.com
 
-<!---
-govindsharma010/govindsharma010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
